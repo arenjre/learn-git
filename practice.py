@@ -16,3 +16,8 @@ for i in range(5):
 # git commit
 # git pull
 # git push
+
+# stash is tempary storage
+#  git stash save "this is stash"
+#  git stash list
+#  git stash apply 0
